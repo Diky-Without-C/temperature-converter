@@ -1,0 +1,26 @@
+{
+  "celcius": {
+    "name": "celcius",
+    "top": 100,
+    "bottom": 0,
+    "unit": "°Celcius"
+  },
+  "fahrenheit": {
+    "name": "fahrenheit",
+    "top": 212,
+    "bottom": 32,
+    "unit": "°Fahrenheit"
+  },
+  "reamur": {
+    "name": "reamur",
+    "top": 80,
+    "bottom": 0,
+    "unit": "°Reamur"
+  },
+  "kelvin": {
+    "name": "kelvin",
+    "top": 373,
+    "bottom": 273,
+    "unit": "Kelvin"
+  }
+}
